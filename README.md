@@ -5,4 +5,3 @@ In this project we use three methods :
 2. Sarsa Qlearning
 3. Approximate Qlearning
 You can see the results in images.  
-Thanks to my teammate @iMahdiGhazavi we did this project. 

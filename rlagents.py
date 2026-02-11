@@ -1,8 +1,8 @@
-import gym
+import gymnasium as gym
 import numpy as np
 import random
-from tensorflow import keras , math
-from keras import layers , optimizers , Sequential 
+# from tensorflow import keras , math
+# from keras import layers , optimizers , Sequential 
 import matplotlib.pyplot as plt
 
 
